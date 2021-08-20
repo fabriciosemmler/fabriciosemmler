@@ -1,6 +1,6 @@
 # Olá, mundo!
 
-## Me chamo Fabricio e estou estudando para ser um desenvolvedor web.
+## Me chamo Fabricio e estou estudando para ser um desenvolvedor júnior.
 
 ## Estou aprendendo:
 - CSS3;
@@ -8,9 +8,9 @@
 - Github;
 - HTML5;
 - Javascript;
-- Node.js;
+- Python;
 - SQL;
-- Vue.js
+- Wordpress.
 
 ## Contato:
 - faprasem@yahoo.com.br
