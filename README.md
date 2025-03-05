@@ -1,13 +1,13 @@
-# Olá, mundo!
+# Hello, world!
 
-## Me chamo Fabricio e estou estudando para ser um desenvolvedor júnior.
+## I'm Fabricio, an aspiring web developer.
 
-## Estou aprendendo:
+## Learning:
 - Git;
 - Github;
-- Python;
-- Pygame;
-- Wordpress.
+- HTML;
+- CSS;
+- Javascript.
 
-## Contato:
+## Contact:
 - faprasem@yahoo.com.br
