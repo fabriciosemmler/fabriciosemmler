@@ -1,13 +1,6 @@
 # Hello, world!
 
-## I'm Fabricio, an aspiring web developer.
-
-## Learning:
-- Git;
-- Github;
-- HTML;
-- CSS;
-- Javascript.
+## I'm Fabricio, an engineer interested in machine learning.
 
 ## Contact:
 - faprasem@yahoo.com.br
